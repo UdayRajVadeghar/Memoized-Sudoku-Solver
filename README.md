@@ -20,7 +20,7 @@ To use the Sudoku solver, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/sudoku-solver.git
+    https://github.com/UdayRajVadeghar/Memoized-Sudoku-Solver
     ```
 
 2. Open the project in your preferred Java IDE.
@@ -28,3 +28,8 @@ To use the Sudoku solver, follow these steps:
 3. Customize the input puzzle in the `main` method of the `SudokuSolver` class.
 
 4. Run the `SudokuSolver` class to solve Sudoku puzzles.
+
+
+
+This README provides a structured overview of the Sudoku solver project, including features, usage instructions, an example, contributing guidelines, and license information.
+
