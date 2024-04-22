@@ -31,5 +31,4 @@ To use the Sudoku solver, follow these steps:
 
 
 
-This README provides a structured overview of the Sudoku solver project, including features, usage instructions, an example, contributing guidelines, and license information.
 
